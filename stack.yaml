@@ -17,12 +17,11 @@ category: Backend
 
 # Lista de tecnologias que você gostaria de enfatizar que é compativel
 compatibility:
-  - Spring
   - Kotlin
 
 # tecnologies que a stack utiliza
 # A lista completa das tecnologias disponiveis que podem ser cadastradas estao disponiveis na Documentacao para consulta
-technologies: ["OpenAPI", "SpringBoot"]
+technologies: ["OpenAPI", "Springboot"]
 
 # Especificar um arquivo .md que explique em detalhes o objetivo da stack
 # por padrão o valor é about.md
