@@ -13,7 +13,7 @@ picture: "https://urbanarts.vteximg.com.br/arquivos/ids/7460265-1000-1000/486933
 # Especificar a categoria da stack.
 # Categorias disponíveis:
 # [sre, frontend, backend, fullStack, analytics]
-category: backend
+category: Backend
 
 # Lista de tecnologias que você gostaria de enfatizar que é compativel
 compatibility:
