@@ -17,8 +17,8 @@ category: Backend
 
 # Lista de tecnologias que você gostaria de enfatizar que é compativel
 compatibility:
-  - spring
-  - kotlin
+  - Spring
+  - Kotlin
 
 # tecnologies que a stack utiliza
 # A lista completa das tecnologias disponiveis que podem ser cadastradas estao disponiveis na Documentacao para consulta
